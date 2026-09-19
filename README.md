@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![jesjack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesjack&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jesjack&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=jesjack&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesjack&langs_count=8&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jesjack&layout=donut-vertical&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=jesjack&layout=donut-vertical&langs_count=10&theme=light_github)
